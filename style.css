@@ -5,8 +5,10 @@ body {
 }
 
 .avatar {
-  width: 150px;
-  border-radius: 30%
+  width: 175px;
+  height: 175px;
+  border-radius: 50%;
+  border: 1px solid #ecece;
 }
 
 .box {
